@@ -1,6 +1,6 @@
 import Combine
 
-struct Primer {
+public struct Primer {
   var text = "Hello, World!!"
   
   func primes() -> [Int] {
